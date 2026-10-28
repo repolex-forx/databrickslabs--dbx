@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/databrickslabs/dbx/commit/07a236890434608beb48e31be1e1da919157facc",
       "git:hexsha": "07a236890434608beb48e31be1e1da919157facc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/databrickslabs/dbx/commit/9d9b3646c61b1ba26d103653c41042933ed4ca4b",
